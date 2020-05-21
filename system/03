@@ -1,0 +1,1 @@
+Pour que la modification du nom du systeme soit definitive , il faut remplacer l'ancien username par le nouveau dans le fichier /etc/hostname

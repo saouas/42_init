@@ -1,0 +1,5 @@
+Le fichier resolve.conf se trouve dans /etc
+Ensuite dans /etc on fait un ls -l resolv.conf
+On voit : " resolv.conf -> ../var/run/resolv.conf "
+C'est donc un lien symbolique , le PATH recherche est le suivant :
+../var/run/resolv.conf

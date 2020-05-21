@@ -1,0 +1,3 @@
+On voit que le site slash16.org est heberger chez Amazon
+car en faisant un traceroute slash16.org on voit que les packets transitent
+par amazon , ex : "amazon-th2.par.franceix.net (37.49.236.118)  3.510 ms  1.111 ms  1.052 ms"

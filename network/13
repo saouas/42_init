@@ -1,0 +1,2 @@
+# En faisant > host 10.11.7.20 | grep "name pointer"                                                                      
+on obtient 20.7.11.10.in-addr.arpa domain name pointer e1r7p20.42.fr.

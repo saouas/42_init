@@ -1,0 +1,2 @@
+ifconfig en0 | grep broadcast | cut -d " " -f 6 
+arp -a | grep -v 'permanent' | cut -d '(' -f 2 | rev | cut -d ')' -f 2 | rev

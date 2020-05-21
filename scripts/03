@@ -1,0 +1,7 @@
+#!/bin/sh
+git add .
+echo 'Whats is your commit message ?'
+read message
+git commit -m "$message"
+git push
+echo '\n\n\n >>>>>>>>>>>>>>>>>>> Your commit has been done and succesfully push ! <<<<<<<<<<<<<<<<<<<<<<'

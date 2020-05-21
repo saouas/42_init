@@ -1,0 +1,2 @@
+Grace a la commande traceroute , om remarque que sur chaque requete le NAT (network adress translation : routeur ) est le suivant:
+nat-1 (10.60.1.11)

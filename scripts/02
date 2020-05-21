@@ -1,0 +1,6 @@
+#!/bin/sh
+echo 'Enter the account to delete : '
+read name
+pkill -u $name
+sudo userdel $name
+echo ">>>>>>>>>>>>>>>>>>>>>>>Succes $name Deleted!<<<<<<<<<<<<<<<<<<<<<<<<<"

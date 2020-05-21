@@ -1,0 +1,2 @@
+Pour avoir la version du Debian installer on execute la commande suivant :
+cat /etc/debian_version
